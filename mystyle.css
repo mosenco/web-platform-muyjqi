@@ -1,0 +1,62 @@
+h1.due {
+  color: rgb(0, 0, 190);
+  font-family: 'Roboto Slab', serif;
+}
+
+h1.tre {
+  color: rgb(0, 0, 190);
+  font-family: 'Roboto Slab', serif;
+  text-align: center;
+}
+
+h1.quattro {
+  color: rgb(0, 153, 255);
+  font-family: 'Roboto Slab', serif;
+  text-align: center;
+  padding: 0px;
+  margin: 0px;
+  border: 0px;
+}
+
+h6.quattro {
+  color: rgb(65, 65, 65);
+  font-family: 'Fira Sans', serif;
+  text-align: center;
+}
+
+h3.quattro {
+  color: rgb(65, 65, 65);
+  font-family: 'Fira Sans', serif;
+}
+
+p.subtxt {
+  color: rgb(65, 65, 65);
+  font-family: 'Fira Sans', serif;
+  text-align: center;
+  padding: 0px;
+  margin: 0px;
+  border: 0px;
+}
+
+p {
+  color: rgb(0, 136, 41);
+  font-family: 'Fira Sans', serif;
+}
+
+i.title {
+  color: rgb(114, 114, 114);
+  font-family: 'Fira Sans', serif;
+}
+
+ul {
+  color: rgb(162, 0, 212);
+}
+
+ol {
+  color: rgb(70, 70, 70);
+}
+
+div.tre {
+  width: 80%;
+  margin: auto;
+}
