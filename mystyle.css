@@ -60,3 +60,7 @@ div.tre {
   width: 80%;
   margin: auto;
 }
+
+div.cinque {
+  box-shadow: 20px 20px 50px 15px grey;
+}
