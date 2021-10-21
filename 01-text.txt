@@ -1,0 +1,6 @@
+Amazing Visualization Tool Cures All Ills A new open-source tool designed for
+visualization of data turns out to have an unexpected, positive side effect:
+it heals any ailments of the viewer. Leading scientists report that the tool,
+called D3000, can cure even the following symptoms: fevers chills general
+malaise It achieves this end with a patented, three-step process. Load in data.
+Generate a visual representation. Activate magic healing function.
